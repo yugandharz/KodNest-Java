@@ -12,6 +12,10 @@ public class DiffrenceBetweenPrintAndPrintln {
         System.out.println ("present i am in kodnest ");
         /*output = i want to be a java developer
                    present i am in kodnest */    
+        /*my name is
+        yugandhar pujari
+        i want to be a java developer
+        present i am in kodnest */           
         
     }
     
