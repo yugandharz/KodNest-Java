@@ -24,7 +24,7 @@ public class ifelseif_To_Switch{
                 System.out.println("Revision Day");
                 break;
             default :
-            System.out.println("invaild Day");                           
+            System.out.println("Invaild Day");                           
         }
 
     }
